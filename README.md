@@ -47,7 +47,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Samuel Santos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santos-b9a98055/)](
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://www.linkedin.com/in/samuel-santos-b9a98055/)
 
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
@@ -94,8 +94,8 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Samuel Santos](https://img.shields.io/badge/-SAMUEL SANTOS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santos-b9a98055/](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Samuel Santos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santos-b9a98055/](https://www.linkedin.com/in/samuel-santos-b9a98055/)
 [![Gmail Badge](https://img.shields.io/badge/-mucasantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucasantos@gmail.com)](mailto:mucasntos@gmail.com)
+[![GitHub Samuel Santos]( https://img.shields.io/github/followers/mucasantos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
