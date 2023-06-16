@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=mucasantos&color=006bed)
 
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
@@ -87,7 +87,7 @@
 <br/>
 
 <a href="https://github.com/mucasantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mucasantoss&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mucasantos&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
