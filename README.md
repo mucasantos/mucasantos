@@ -48,5 +48,5 @@
 [![Linkedin: Samuel Santos](https://img.shields.io/badge/-SAMUELSANTOS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/samuel-santos-b9a98055/)
 
 [![Gmail Badge](https://img.shields.io/badge/-mucasantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucasantos@gmail.com)](mailto:mucasantos@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/mucasantos?label=follow&style=social)](https://github.com/mucasantos/mucasantos))
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/mucasantos?label=follow&style=social)](https://github.com/mucasantos/mucasantos)
 
