@@ -49,5 +49,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-mucasantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucasantos@gmail.com)](mailto:mucasantos@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/mucasantos?label=follow&style=social)](https://github.com/mucasantos/mucasantos))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucasantos@gmail.com)](mailto:mucasntos@gmail.com)
-[![GitHub Samuel Santos]( https://img.shields.io/github/followers/mucasantos?label=follow&style=social)](https://github.com/mucasantos/mucasantos)
+
