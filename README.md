@@ -3,9 +3,9 @@
 
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://univesp.br/">UNIVESP</a>.
-- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR MOBILE FLUTTER** na <a href="https://soulprime.io/">SOULPRIME</a>
+- 🤔 &nbsp; Sempre explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Formado **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://univesp.br/">UNIVESP</a>.
+- 💼 &nbsp; Trabalhei como **DESENVOLVEDOR MOBILE FLUTTER** na <a href="https://soulprime.io/">SOULPRIME</a>
 - 🌱 &nbsp; Aprendendo mais sobre **SWIFT/.NET/JAVA**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
