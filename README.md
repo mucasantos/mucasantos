@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Sempre explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://univesp.br/">UNIVESP</a>.
 - 💼 &nbsp; Trabalhei como **DESENVOLVEDOR MOBILE FLUTTER** na <a href="https://soulprime.io/">SOULPRIME</a>
-- 🌱 &nbsp; Aprendendo mais sobre **SWIFT/.NET/JAVA**.
+- 🌱 &nbsp; Conhecimento em Linguagens diversas ,como: **SWIFT/.NET/JAVA**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
